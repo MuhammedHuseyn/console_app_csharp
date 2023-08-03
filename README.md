@@ -4,7 +4,16 @@
    
    
    ![Negative project](positive.png)
-2. Complex Creature  ![Complex Creature](answer.png)
-3. Simple Calculator ![Simple Calculator](simple_calculator.png)
-4. Palyaco Man ![palyacoman](palyacoman.png)
+2. Complex Creature 
+
+
+
+   ![Complex Creature](answer.png)
+3. Simple Calculator
+
+
+   ![Simple Calculator](simple_calculator.png)
+4. Palyaco Man 
+
+   ![palyacoman](palyacoman.png)
 
