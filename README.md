@@ -23,4 +23,8 @@
    ![Tempurature](tempurature.png)
 
 
-6.Sum of Multiple![Sumof](digit.png)
+6.Sum of Multiple
+
+
+
+   ![Sumof](digit.png)
