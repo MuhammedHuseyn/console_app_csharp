@@ -2,7 +2,7 @@
 
 1. Negative project 
    
-   
+
    ![Negative project](positive.png)
 2. Complex Creature 
 
@@ -21,3 +21,6 @@
 
    
    ![Tempurature](tempurature.png)
+
+
+6.Sum of Multiple![Sumof](digit.png)
