@@ -35,7 +35,7 @@
 
    ![Array](array22.png)
 
-8.Array2
+8. Array2
 
 
   ![Array2](array2.png)
