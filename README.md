@@ -17,14 +17,20 @@
    
    ![palyacoman](palyacoman.png)
 
-5.Tempurature 
+5. Tempurature 
 
    
    ![Tempurature](tempurature.png)
 
 
-6.Sum of Multiple
+6. Sum of Multiple
 
 
 
    ![Sumof](digit.png)
+
+
+7. Array 2*2 
+
+
+   ![Array](array22.png)
