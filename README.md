@@ -30,7 +30,7 @@
    ![Sumof](digit.png)
 
 
-7. Array 2*2 
+7. Array  
 
 
    ![Array](array22.png)
